@@ -17,10 +17,10 @@ This repository is a living knowledge base to help me:
 
 ## 📂 Structure
 
-| File / Folder                      | Description                                                                 |
+| File / Folder                      | Description                                                                |
 |-----------------------------------|-----------------------------------------------------------------------------|
-| `env-troubleshooting-guide.md`    | 30+ solutions for `.env` and environment variable issues                    |
-| `env-troubleshooting-dependencies.md` | List of tools and packages referenced in the `.env` guide                   |
+| `Environment.md`                  | 30+ solutions for `.env` and environment variable issues                    |
+| `env-troubleshooting-dependencies.md` | List of tools and packages referenced in the `.env` guide               |
 | `docker-networking-fixes.md`      | Notes on resolving Docker container networking problems                     |
 | `k8s-deployment-issues.md`        | Common Kubernetes deployment errors and how to fix them                     |
 | `ci-cd-pipeline-failures.md`      | Troubleshooting CI/CD pipeline failures across GitHub Actions and GitLab CI |
