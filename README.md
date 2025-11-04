@@ -14,21 +14,7 @@ This repository is a living knowledge base to help me:
 - Maintain consistency across projects and environments
 
 ---
-
-## 📂 Structure
-
-| File / Folder                      | Description                                                                |
-|-----------------------------------|-----------------------------------------------------------------------------|
-| `Environment.md`                  | 30+ solutions for `.env` and environment variable issues                    |
-| `env-troubleshooting-dependencies.md` | List of tools and packages referenced in the `.env` guide               |
-| `docker-networking-fixes.md`      | Notes on resolving Docker container networking problems                     |
-| `k8s-deployment-issues.md`        | Common Kubernetes deployment errors and how to fix them                     |
-| `ci-cd-pipeline-failures.md`      | Troubleshooting CI/CD pipeline failures across GitHub Actions and GitLab CI |
-| `postgres-connection-errors.md`   | Fixes for PostgreSQL authentication, port, and SSL issues                   |
-| `README.md`                       | Overview of the repository                                                  |
-
 > Note: More guides will be added as I encounter and solve new problems.
-
 ---
 
 ## 🧠 Topics Covered
